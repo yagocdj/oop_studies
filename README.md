@@ -1,1 +1,3 @@
 # oop_studies
+.metadata/
+
