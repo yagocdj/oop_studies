@@ -9,8 +9,7 @@ public class AlunoFlex {
 		this.name = name;
 		this.grades = grades;
 	}
-
-	// Teste
+	
 	public String getName() {
 		return this.name;
 	}
