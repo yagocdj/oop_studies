@@ -2,7 +2,11 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
     <fullyQualifiedTypeName name="modelo.Animal"/>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="modelo.Arara"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="modelo.ContaEspecial"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="modelo.Convidado"/>
+    <fullyQualifiedTypeName name="modelo.Motor"/>
+    <fullyQualifiedTypeName name="modelo.Motorista"/>
 </qualifiedTypeNameHistroy>
