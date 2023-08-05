@@ -33,6 +33,16 @@ public class Teste {
 		// Criando novos motoristas para os dois carros
 		carro1.setMotorista(new Motorista("4444"));
 		carro2.setMotorista(new Motorista("5555"));
+		
+		Carro c1 = new Carro("BAC1234", new Motor("Fire tunado", 200.0), null);
+		Carro c2 = new Carro("ABC2345", c1.getMotor(), null);
+		Carro c3 = new Carro("DE5679", c1.getMotor(), null);
+		
+		c2.getMotor().setPotencia(450.0);
+		
+		System.out.println(c1);
+		System.out.println(c2);
+		System.out.println(c3);
 
 	}
 

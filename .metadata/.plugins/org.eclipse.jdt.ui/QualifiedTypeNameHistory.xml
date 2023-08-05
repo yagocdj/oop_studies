@@ -3,10 +3,20 @@
     <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
     <fullyQualifiedTypeName name="modelo.Animal"/>
     <fullyQualifiedTypeName name="modelo.Arara"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="modelo.ContaEspecial"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="modelo.Convidado"/>
-    <fullyQualifiedTypeName name="modelo.Motor"/>
     <fullyQualifiedTypeName name="modelo.Motorista"/>
+    <fullyQualifiedTypeName name="modelo.Pessoa"/>
+    <fullyQualifiedTypeName name="modelo.Casa"/>
+    <fullyQualifiedTypeName name="modelo.Aluguel"/>
+    <fullyQualifiedTypeName name="modelo.Endereco"/>
+    <fullyQualifiedTypeName name="aplicacao.Teste"/>
+    <fullyQualifiedTypeName name="modelo.Pai"/>
+    <fullyQualifiedTypeName name="modelo.Produto"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="modelo.Carro"/>
+    <fullyQualifiedTypeName name="modelo.Motor"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.spi.CurrencyNameProvider"/>
 </qualifiedTypeNameHistroy>
